@@ -8,5 +8,3 @@ school:Morehouse College
 data related to school so that I could make a difference there
 data realted to my hometown so that I could make a difference there
 data related to something in else in my life that impacts my decisons like my diet or deciding the best workout routine
-
-data relating to my job that makes me finacially stable and helps make the world a better place
